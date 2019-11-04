@@ -1,0 +1,12 @@
+{
+  "name": "tracerouteass",
+  "version": "1.0.0",
+  "description": "Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":" node trace www.google.com"
+  },
+  "author": "Kranthi Kumar",
+  "license": "ISC"
+}
